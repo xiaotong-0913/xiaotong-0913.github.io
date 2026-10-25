@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xiaotong-0913.github.io/sitemap.xml
